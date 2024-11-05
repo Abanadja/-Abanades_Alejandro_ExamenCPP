@@ -9,4 +9,6 @@ add_executable(_Abanades_Alejandro_ExamenCPP
         projecto1/projecto1.h
         projecto2/projecto2.h
         projecto2/projecto2.cpp
+        projecto3/projecto3.h
+        projecto3/projecto3.cpp
 )
